@@ -1,6 +1,6 @@
 {
   "name": "tea-onef",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tea demo app",
   "main": "index.js",
   "scripts": {
